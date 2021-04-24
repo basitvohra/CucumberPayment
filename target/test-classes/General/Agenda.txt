@@ -1,0 +1,20 @@
+
+
+SDLC:--
+========
+
+Requirements-- FRS
+Analyse
+DEsign
+coding--dev
+Qa---manual --- Automation-- BDD
+
+
+open browser
+open url
+find Unm
+data to Unm
+Find Pwd
+Data to Pwd
+Find ok
+click ob button
